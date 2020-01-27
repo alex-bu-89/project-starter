@@ -1,4 +1,4 @@
-# Project starter
+# My awesome readme
 
 [![pipeline status](https://img.shields.io/david/alex-bu-89/https://github.com/alex-bu-89/project-starter.git)](https://img.shields.io/david/alex-bu-89/https://github.com/alex-bu-89/project-starter.git)
 
