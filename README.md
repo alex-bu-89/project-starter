@@ -19,12 +19,11 @@
 1. [Contributors](#contributors)
 
 ## Dependencies
-* [Nodejs 13](https://nodejs.org/en/)
+* [Nodejs 14](https://nodejs.org/en/)
 
 ## Tech stack
-* [Stenciljs](https://stenciljs.com/)
 * [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
+* [Vue](https://vuejs.org/)
 
 ## Usage
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -69,7 +68,6 @@ My API documentation (swagger)
 
 * 0.0.1
     * Init project;
-
 
 ## Contributors
 - [John Doe](https://github.com/john-doe/)
